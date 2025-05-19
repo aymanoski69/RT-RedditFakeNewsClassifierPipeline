@@ -1,0 +1,16 @@
+# .gitignore
+# Airflow
+airflow/logs/
+airflow/plugins/__pycache__/
+
+# Models
+airflow/scripts/final_model/
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env

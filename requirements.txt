@@ -1,0 +1,9 @@
+pandas
+torch
+transformers
+regex
+praw
+kafka-python
+cassandra-driver
+pyspark==3.5.0
+python-dotenv
