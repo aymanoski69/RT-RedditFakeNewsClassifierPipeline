@@ -1,4 +1,4 @@
-THIS PROJECT STILL NEEDS SOME FINAL TOTCH , BUT IT S WORKING 
+THIS PROJECT STILL NEEDS SOME FINAL TOUCHs , BUT IT S WORKING 
 
 -------------------------------------------------------------
 FIRST: you need to download my Fakenewsclassifier model from kaggle : https://www.kaggle.com/models/lambarkiaymane/fakenewsclassifier
@@ -9,5 +9,6 @@ FIRST: you need to download my Fakenewsclassifier model from kaggle : https://ww
 (localHost port 8081:8080 to check the airflow web services)
 --------------------------------------------------------------
 
-WARNNING : you need to create your own dashboard in grafana at port "3000:3000"
+⚠️WARNNING : you need to create your own dashboard in grafana at port "3000:3000"
 and install the plugging for Cassandra
+Need to use your own reddit api credentiales
