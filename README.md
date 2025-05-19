@@ -10,5 +10,7 @@ FIRST: you need to download my Fakenewsclassifier model from kaggle : https://ww
 --------------------------------------------------------------
 
 ⚠️WARNNING : you need to create your own dashboard in grafana at port "3000:3000"
-and install the plugging for Cassandra
+and install the plugging for Cassandra.
+
+
 Need to use your own reddit api credentiales
